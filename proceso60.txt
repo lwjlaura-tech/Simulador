@@ -1,0 +1,67 @@
+# Carga de trabajo del simulador de políticas de planificación de CPU
+# Formato por línea:  ID  TIEMPO_DE_LLEGADA  DURACIÓN
+# Los procesos van en orden de llegada.
+# Las líneas vacías y las que empiezan con '#' se ignoran.
+#
+# Carga aleatoria de 60 procesos (semilla fija).
+#    ID   Llegada   Duración
+P0           0          8
+P1           0          8
+P2           0          4
+P3           1          2
+P4           1          2
+P5           1          2
+P6           2          8
+P7           2          4
+P8           2          7
+P9           2          8
+P10          3          2
+P11          3          5
+P12          4          6
+P13          4          4
+P14          5          9
+P15          5         10
+P16          5          4
+P17          5          6
+P18          6          9
+P19          6          8
+P20          6          2
+P21          6          5
+P22          6          2
+P23          7          7
+P24          7         10
+P25          7          4
+P26          7          8
+P27          7          4
+P28          8          6
+P29          8          5
+P30          8         10
+P31          8          8
+P32          8         10
+P33          8          4
+P34          9          5
+P35          9          6
+P36          9          4
+P37         10          6
+P38         10          3
+P39         10          4
+P40         10          8
+P41         11          5
+P42         11          8
+P43         11          2
+P44         11          3
+P45         11          7
+P46         11          1
+P47         12          4
+P48         12          8
+P49         13          5
+P50         13          7
+P51         14          4
+P52         14          4
+P53         14          8
+P54         15          7
+P55         15          9
+P56         15          6
+P57         15          2
+P58         15          3
+P59         15         10
